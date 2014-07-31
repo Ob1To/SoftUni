@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\03StylingHTMLForm\bin\03StylingHTMLForm.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\03StylingHTMLForm\bin\03StylingHTMLForm.dll
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\03StylingHTMLForm\bin\03StylingHTMLForm.pdb
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\03StylingHTMLForm\obj\Debug\03StylingHTMLForm.csprojResolveAssemblyReference.cache
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\03StylingHTMLForm\obj\Debug\03StylingHTMLForm.dll
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\03StylingHTMLForm\obj\Debug\03StylingHTMLForm.pdb

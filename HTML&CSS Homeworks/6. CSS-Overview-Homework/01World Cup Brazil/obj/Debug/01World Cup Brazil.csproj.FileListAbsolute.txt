@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\01World Cup Brazil\bin\01World Cup Brazil.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\01World Cup Brazil\bin\01World Cup Brazil.dll
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\01World Cup Brazil\bin\01World Cup Brazil.pdb
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\01World Cup Brazil\obj\Debug\01World Cup Brazil.csprojResolveAssemblyReference.cache
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\01World Cup Brazil\obj\Debug\01World Cup Brazil.dll
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\01World Cup Brazil\obj\Debug\01World Cup Brazil.pdb

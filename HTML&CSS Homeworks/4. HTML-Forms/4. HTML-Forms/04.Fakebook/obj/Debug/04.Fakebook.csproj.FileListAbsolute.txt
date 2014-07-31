@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\04.Fakebook\bin\04.Fakebook.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\04.Fakebook\bin\04.Fakebook.dll
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\04.Fakebook\bin\04.Fakebook.pdb
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\04.Fakebook\obj\Debug\04.Fakebook.dll
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\04.Fakebook\obj\Debug\04.Fakebook.pdb
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\04.Fakebook\obj\Debug\04.Fakebook.csprojResolveAssemblyReference.cache

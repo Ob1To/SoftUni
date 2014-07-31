@@ -1,0 +1,45 @@
+﻿table, th, td{
+    border: 2px solid black;
+}
+    table th {
+        font-size:70px;
+        height: 140px;
+    }
+    table td {
+        padding:7px;
+    }
+#original {
+    width:600px;
+    height:750px;
+    font-size:30px;
+    table-layout:fixed;
+}
+
+#secondary {
+    width:100%;
+    height:100%;
+    font-size:20px;
+}
+
+#beer {
+    font-weight:bold;
+}
+
+.top {
+    vertical-align:top;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align:right;
+}
+.bot {
+    vertical-align: bottom;
+}
+.v-center {
+    vertical-align: middle;
+}
+.h-center {
+    text-align: center;
+}

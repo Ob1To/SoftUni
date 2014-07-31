@@ -1,0 +1,24 @@
+﻿body {
+}
+
+h1{
+    font-size:4em;
+    text-align:center;
+}
+
+ul{
+    text-align:center;
+    font-size:4em;
+}
+
+li{
+    margin:5% auto;
+}
+
+a{
+    text-decoration:none;
+}
+
+.navigation {
+    background-color:#ADD8E6;
+}

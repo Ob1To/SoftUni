@@ -1,0 +1,29 @@
+C:\Users\Ob1>cd D:
+D:\SoftUni\JavaProjects\Intro-Java-Homework\src
+
+C:\Users\Ob1>javac SumTwoNumbers.java
+javac: file not found: SumTwoNumbers.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+
+C:\Users\Ob1>java SumTwoNumbers
+Error: Could not find or load main class SumTwoNumbers
+
+C:\Users\Ob1>cd D:\SoftUni\JavaProjects\Intro-Java-Homework\src
+
+C:\Users\Ob1>explorer D:\SoftUni\JavaProjects\Intro-Java-Homework\src
+
+C:\Users\Ob1>cd\ D:\SoftUni\JavaProjects\Intro-Java-Homework\src
+The filename, directory name, or volume label syntax is incorrect.
+
+C:\Users\Ob1>D:
+
+D:\SoftUni\JavaProjects\Intro-Java-Homework\src>javac SumTwoNumbers.java
+
+D:\SoftUni\JavaProjects\Intro-Java-Homework\src>java SumTwoNumbers
+Please enter the first number:
+5
+Please enter the second number:
+3
+Your sum is: 8
+D:\SoftUni\JavaProjects\Intro-Java-Homework\src>

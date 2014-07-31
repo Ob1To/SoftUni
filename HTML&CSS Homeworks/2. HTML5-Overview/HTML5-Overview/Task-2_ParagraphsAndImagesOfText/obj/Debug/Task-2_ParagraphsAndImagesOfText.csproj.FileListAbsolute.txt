@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-2_ParagraphsAndImagesOfText\bin\Task-2_ParagraphsAndImagesOfText.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-2_ParagraphsAndImagesOfText\bin\Task-2_ParagraphsAndImagesOfText.dll
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-2_ParagraphsAndImagesOfText\bin\Task-2_ParagraphsAndImagesOfText.pdb
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-2_ParagraphsAndImagesOfText\obj\Debug\Task-2_ParagraphsAndImagesOfText.dll
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-2_ParagraphsAndImagesOfText\obj\Debug\Task-2_ParagraphsAndImagesOfText.pdb
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-2_ParagraphsAndImagesOfText\obj\Debug\Task-2_ParagraphsAndImagesOfText.csprojResolveAssemblyReference.cache

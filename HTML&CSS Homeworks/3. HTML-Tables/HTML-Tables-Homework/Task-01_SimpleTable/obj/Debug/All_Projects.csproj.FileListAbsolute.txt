@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\3. HTML-Tables\HTML-Tables-Homework\Task-01_SimpleTable\bin\Task-01_SimpleTable.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\3. HTML-Tables\HTML-Tables-Homework\Task-01_SimpleTable\bin\Task-01_SimpleTable.dll
+D:\SoftUni\HTML-CSS\Homeworks\3. HTML-Tables\HTML-Tables-Homework\Task-01_SimpleTable\bin\Task-01_SimpleTable.pdb
+D:\SoftUni\HTML-CSS\Homeworks\3. HTML-Tables\HTML-Tables-Homework\Task-01_SimpleTable\obj\Debug\All_Projects.csprojResolveAssemblyReference.cache
+D:\SoftUni\HTML-CSS\Homeworks\3. HTML-Tables\HTML-Tables-Homework\Task-01_SimpleTable\obj\Debug\Task-01_SimpleTable.dll
+D:\SoftUni\HTML-CSS\Homeworks\3. HTML-Tables\HTML-Tables-Homework\Task-01_SimpleTable\obj\Debug\Task-01_SimpleTable.pdb

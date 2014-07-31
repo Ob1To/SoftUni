@@ -1,0 +1,5 @@
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\02SoftUni Hawaii Vacation\bin\02SoftUni Hawaii Vacation.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\02SoftUni Hawaii Vacation\bin\02SoftUni Hawaii Vacation.dll
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\02SoftUni Hawaii Vacation\bin\02SoftUni Hawaii Vacation.pdb
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\02SoftUni Hawaii Vacation\obj\Debug\02SoftUni Hawaii Vacation.dll
+D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\02SoftUni Hawaii Vacation\obj\Debug\02SoftUni Hawaii Vacation.pdb

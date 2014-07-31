@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\02Color Kitchen\bin\02Color Kitchen.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\02Color Kitchen\bin\02Color Kitchen.dll
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\02Color Kitchen\bin\02Color Kitchen.pdb
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\02Color Kitchen\obj\Debug\02Color Kitchen.dll
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\02Color Kitchen\obj\Debug\02Color Kitchen.pdb
+D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\02Color Kitchen\obj\Debug\02Color Kitchen.csprojResolveAssemblyReference.cache

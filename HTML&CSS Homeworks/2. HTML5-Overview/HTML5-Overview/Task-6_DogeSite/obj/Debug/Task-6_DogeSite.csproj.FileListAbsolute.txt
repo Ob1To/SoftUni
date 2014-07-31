@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-6_DogeSite\bin\Task-6_DogeSite.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-6_DogeSite\bin\Task-6_DogeSite.dll
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-6_DogeSite\bin\Task-6_DogeSite.pdb
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-6_DogeSite\obj\Debug\Task-6_DogeSite.csprojResolveAssemblyReference.cache
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-6_DogeSite\obj\Debug\Task-6_DogeSite.dll
+D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-6_DogeSite\obj\Debug\Task-6_DogeSite.pdb

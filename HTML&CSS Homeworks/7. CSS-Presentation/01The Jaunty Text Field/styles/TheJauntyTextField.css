@@ -1,0 +1,114 @@
+﻿#container {
+    position:relative;
+    width:510px;
+    height:200px;
+    border-top: 5px dotted yellow;
+    border-left: 5px dashed red;
+    border-right: 10px solid green;
+    border-bottom: 8px double blue;
+    box-shadow: 10px 10px 5px #888888;
+}
+
+#container h1 {
+    text-shadow: 10px 10px 15px #888888;
+    font-weight:normal;
+    text-align:center;
+}
+
+#colorfull-container {
+    box-shadow:
+    0 0 0 2px red,
+    0 0 0 4px yellow,
+    0 0 0 6px green,
+    0 0 0 8px blue;
+    width: 84%;
+    height: 80px;
+    border-radius:60px;
+    margin: auto;
+    text-align:center;
+}
+
+#colorfull-container h2 {
+    font-size:1.1em;
+}
+
+#colorfull-container input {
+    width:37%;
+    font-size:0.8em;
+    text-align:center;
+    Background:#D79218;
+    border-top: 3px solid #EC9C0D;
+    border-left: 3px solid #EC9C0D;
+    border-bottom: 3px solid #AD7206;
+    border-right: 3px solid #AD7206;
+}
+
+#small-bubble {
+    position: relative;
+    width: 25px;
+    height: 25px;
+    background: rgba(104,104,104,0.7);
+    border-radius: 50%;
+    top: -68px;
+    left: 390px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+}
+
+#middle-bubble {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    background: rgba(104,104,104,0.7);
+    border-radius: 50%;
+    top: -146px;
+    left: 417px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+}
+
+.border:before {
+    content: " ";
+    position: absolute;
+    border: 4px dashed white;
+    border-radius: 50%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#biggest-bubble {
+    position: relative;
+    width: 100px;
+    height: 55px;
+    border-radius:40px;
+    background: rgba(104,104,104,0.7);
+    top: -228px;
+    left: 470px;
+    border: 4px dashed;
+    border-color: rgba(104,104,104,0.1);
+    padding-top: 10px;
+}
+
+#biggest-bubble:before {
+content: " ";
+position: absolute;
+border: 4px dashed white;
+border-radius:40px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+#text{
+position: absolute;
+color: white;
+width: 70px;
+text-align: center;
+font-size: 23px;
+font-weight: bold;
+top: 16px;
+left: 487px;
+}

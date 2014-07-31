@@ -1,0 +1,6 @@
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\03.WordPressTheme\bin\03.WordPressTheme.dll.config
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\03.WordPressTheme\bin\03.WordPressTheme.dll
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\03.WordPressTheme\bin\03.WordPressTheme.pdb
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\03.WordPressTheme\obj\Debug\03.WordPressTheme.csprojResolveAssemblyReference.cache
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\03.WordPressTheme\obj\Debug\03.WordPressTheme.dll
+D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\03.WordPressTheme\obj\Debug\03.WordPressTheme.pdb
