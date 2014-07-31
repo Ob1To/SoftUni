@@ -1,0 +1,10 @@
+{
+  "name": "Task_16_CardsFreq",
+  "version": "0.0.0",
+  "description": "Task-16-CardsFreq",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

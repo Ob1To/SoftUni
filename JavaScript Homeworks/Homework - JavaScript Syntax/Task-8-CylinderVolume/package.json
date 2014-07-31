@@ -1,0 +1,10 @@
+{
+  "name": "Task_8_CylinderVolume",
+  "version": "0.0.0",
+  "description": "Task-8-CylinderVolume",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

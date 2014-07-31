@@ -1,0 +1,10 @@
+{
+  "name": "task_3_time",
+  "version": "0.0.0",
+  "description": "task-3-time",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

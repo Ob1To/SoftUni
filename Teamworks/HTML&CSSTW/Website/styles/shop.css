@@ -1,0 +1,286 @@
+html {
+    font-size: 14px;
+    font-family: Verdana, sans-serif;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    background-image: url("../res/Site_pattern_02b.jpg");
+    background-repeat: repeat;
+}
+
+/* header */
+header {
+    margin: 0 4% 0 4%;
+    text-align: center;
+}
+
+div#container {
+    margin: 0 4% 0 4%;
+}
+
+#logo {
+    width: 100%;
+    display: block;
+}
+
+#borderline {
+    height: 35px;
+    margin: 0;
+    background-color: #9229A4;
+    z-index: 1000;
+}
+
+nav {
+    vertical-align: bottom;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: #171715;
+    width: auto;
+}
+
+nav li {
+    -webkit-transition: all 0.2s;
+    transition: all 0.2s;
+    font: 16px/50px bold;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+
+nav ul#main > li:last-of-type {
+    border-right: none;
+}
+
+a.drop:after {
+    content: ' \25bc';
+}
+
+nav li ul {
+    -webkit-transition: all 1s;
+    transition: all 1s;
+    visibility: hidden;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    opacity: 0;
+    position: absolute;
+    display: inline-block;
+}
+
+nav li:hover > ul {
+    opacity: 1;
+    visibility: visible;
+    z-index: 2;
+}
+
+nav li li:hover {
+    background-color: gray;
+}
+
+nav ul#main > li:hover {
+    background-color: #9229A4;
+}
+
+nav li:hover > a {
+    color: #fff;
+}
+
+nav ul ul li {
+    -webkit-transition: height 0.5s;
+    transition: height 0.5s;
+    text-align: left;
+    background-color: #353638;
+    border-bottom: solid 1px black;
+    float: none;
+    width: 100%;
+}
+
+nav ul li ul li:last-of-type {
+    border-bottom: none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+nav li a {
+    -webkit-transition: all 0.5s;
+    text-align: center;
+    text-decoration: none;
+    color: #C4C4C4;
+    font: 16px/50px Helvetica;
+    display: block;
+    width: auto;
+    padding: 0 25px 0 25px;
+}
+
+nav li ul a {
+    padding: 0 15px 0 15px;
+    font: 16px/50px sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+/* main */
+
+main  {
+    margin: 3% 10% 3% 10%;
+    color: white;
+}
+
+section {
+    background-color: rgba(16, 16, 16, 0.7);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h1 {
+    margin: 0 0 0 5%;
+    font-size: 2.7rem;
+}
+
+article {
+    border: solid 1px gray;
+    border-radius: 2px;
+    margin: 2%;
+    width: 90%;
+    padding: 5px;
+}
+
+article.profile:hover {
+    background-color: #333333;
+    cursor: pointer;
+}
+
+article a {
+    color: #ffffff;
+}
+
+figure {
+    padding: 0;
+    display: inline-block;
+    margin: 5px 15px 5px 5px;
+    text-align: center;
+    float: left;
+}
+
+img.profilePicture {
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+}
+
+div.profileInfo {
+    overflow: hidden;
+    margin: 5px;
+    padding: 5px;
+    color: white;
+    max-width: 100%;
+}
+
+.profileInfo > p, .profileInfo ul {
+    overflow: hidden;
+    word-wrap: break-word;
+}
+
+.profileInfo > ul {
+    min-width: 30%;
+}
+
+span.tag {
+    color: lightpink;
+}
+
+div.contact {
+    text-align: right;
+    display: block;
+    border-top: solid 1px gray;
+    border-top-left-radius: 70px;
+    background-color: #1B1B1B;
+}
+
+.poke, .message {
+    display: inline-block;
+    padding: 5px;
+    border: none;
+    background-color: #9229A4;
+    color: #000000;
+    font-weight: bold;
+    border-radius: 5px;
+    font-size: 1.1rem;
+    margin: 5px 8px;
+}
+
+section#boys {
+    text-align: center;
+    font-size: 0.7rem;
+}
+
+footer {
+    width:86%;
+    height:auto;
+    background-color: rgba(16, 16, 16, 0.7);
+    margin-left:7%;
+    margin-right:7%;
+    border-radius: 10px;
+    overflow:hidden;
+    display:inline-block;
+    position:relative;
+}
+
+footer span {
+    position:absolute;
+    margin: 1em;
+    color: #C4C4C4;
+    bottom:12px;
+    right:200px;
+}
+
+footer ul {
+    padding-left: 32px;
+    float:left;
+}
+footer ul li{
+    line-height:2.5em;
+    list-style-type: none;
+    font-size:1.2em;
+    color: #C4C4C4;
+
+}
+footer ul li::before {
+    content: "\2764";
+    color: lightpink;
+}
+
+footer ul li a {
+    text-decoration: none;
+    color: #C4C4C4;
+    font: Helvetica;
+    margin-left:5px;
+}
+
+#validator-logo {
+    margin-top:1.3em;
+    margin-right:1.3em;
+    float:right;
+}
+
+#validator-logo img {
+    width: 80px;
+    height: 80px;
+}
+
+#cssImage {
+    margin-left:1em;
+}

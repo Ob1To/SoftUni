@@ -1,0 +1,10 @@
+{
+  "name": "Task_4_LogsAggregator",
+  "version": "0.0.0",
+  "description": "Task-4-LogsAggregator",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

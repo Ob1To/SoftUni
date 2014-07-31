@@ -1,0 +1,10 @@
+{
+  "name": "Task_10_ReverseString",
+  "version": "0.0.0",
+  "description": "Task-10-ReverseString",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Task_15_MostFreqWord",
+  "version": "0.0.0",
+  "description": "Task-15-MostFreqWord",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

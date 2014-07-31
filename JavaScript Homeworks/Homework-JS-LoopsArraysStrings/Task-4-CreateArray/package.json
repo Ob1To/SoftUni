@@ -1,0 +1,10 @@
+{
+  "name": "Task_4_CreateArray",
+  "version": "0.0.0",
+  "description": "Task-4-CreateArray",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

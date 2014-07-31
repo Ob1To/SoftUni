@@ -1,0 +1,10 @@
+{
+  "name": "Task_9_MostFreqNumber",
+  "version": "0.0.0",
+  "description": "Task-9-MostFreqNumber",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "task_2_numbersFrom_1_10",
+  "version": "0.0.0",
+  "description": "task-2-numbersFrom-1-10",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

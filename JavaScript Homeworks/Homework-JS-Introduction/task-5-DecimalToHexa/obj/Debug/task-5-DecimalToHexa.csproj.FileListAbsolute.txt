@@ -1,0 +1,5 @@
+D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-5-DecimalToHexa\bin\task-5-DecimalToHexa.dll.config
+D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-5-DecimalToHexa\bin\task-5-DecimalToHexa.dll
+D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-5-DecimalToHexa\bin\task-5-DecimalToHexa.pdb
+D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-5-DecimalToHexa\obj\Debug\task-5-DecimalToHexa.dll
+D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-5-DecimalToHexa\obj\Debug\task-5-DecimalToHexa.pdb

@@ -1,0 +1,10 @@
+{
+  "name": "Task_6_MaximalSequence",
+  "version": "0.0.0",
+  "description": "Task-6-MaximalSequence",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

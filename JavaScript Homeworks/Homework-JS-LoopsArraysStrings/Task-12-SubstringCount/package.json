@@ -1,0 +1,10 @@
+{
+  "name": "Task_12_SubstringCount",
+  "version": "0.0.0",
+  "description": "Task-12-SubstringCount",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

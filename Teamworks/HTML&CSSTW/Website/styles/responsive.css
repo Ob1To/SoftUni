@@ -1,0 +1,69 @@
+@media screen and (max-width: 780px) {
+
+    nav ul li {
+        font-size: 0.8rem;
+        width: 25%;
+        float: none;
+    }
+
+    main .profilePicture {
+        width: 100%;
+        text-align: center;
+    }
+
+    main article h1 {
+        text-align: center;
+    }
+
+    main article figure {
+        float: none;
+    }
+}
+
+@media screen and (max-width: 600px) {
+
+    nav ul#main > li {
+        font-size: 0.95rem;
+        width: 33%;
+        float: none;
+    }
+
+    nav > ul  li  a {
+        padding: 0 5px 0 5px !important;
+    }
+}
+
+@media screen and (max-width: 530px) {
+
+    #validator-logo img {
+        width: 40px;
+        height: 40px;
+    }
+
+    footer span {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 400px) {
+
+    nav ul li {
+        width: 50%;
+    }
+
+    nav ul li a {
+        text-align: center;
+        padding-right: 0 !important;
+    }
+
+    main {
+        margin: 2% 1% 2% 1%;
+    }
+}
+
+@media screen and (max-width: 330px) {
+
+    main .profilePicture {
+        width: 95%;
+    }
+}

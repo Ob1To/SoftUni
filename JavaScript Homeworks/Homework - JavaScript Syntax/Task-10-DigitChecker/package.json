@@ -1,0 +1,10 @@
+{
+  "name": "Task_10_DigitChecker",
+  "version": "0.0.0",
+  "description": "Task-10-DigitChecker",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

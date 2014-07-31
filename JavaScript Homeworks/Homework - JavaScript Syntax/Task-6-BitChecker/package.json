@@ -1,0 +1,10 @@
+{
+  "name": "Task_6_BitChecker",
+  "version": "0.0.0",
+  "description": "Task-6-BitChecker",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

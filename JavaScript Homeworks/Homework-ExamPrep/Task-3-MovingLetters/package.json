@@ -1,0 +1,10 @@
+{
+  "name": "Task_3_MovingLetters",
+  "version": "0.0.0",
+  "description": "Task-3-MovingLetters",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

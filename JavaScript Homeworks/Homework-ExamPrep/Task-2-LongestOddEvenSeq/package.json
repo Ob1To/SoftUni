@@ -1,0 +1,10 @@
+{
+  "name": "Task_2_LongestOddEvenSeq",
+  "version": "0.0.0",
+  "description": "Task-2-LongestOddEvenSeq",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

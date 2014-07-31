@@ -1,0 +1,10 @@
+{
+  "name": "Task_1_NumberChecker",
+  "version": "0.0.0",
+  "description": "Task-1-NumberChecker",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

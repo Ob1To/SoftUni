@@ -1,0 +1,10 @@
+{
+  "name": "Task_7_LifetimeSupplyCalc",
+  "version": "0.0.0",
+  "description": "Task-7-LifetimeSupplyCalc",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

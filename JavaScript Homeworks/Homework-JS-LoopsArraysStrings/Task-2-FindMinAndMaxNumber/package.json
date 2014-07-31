@@ -1,0 +1,10 @@
+{
+  "name": "Task_2_FindMinAndMaxNumber",
+  "version": "0.0.0",
+  "description": "Task-2-FindMinAndMaxNumber",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

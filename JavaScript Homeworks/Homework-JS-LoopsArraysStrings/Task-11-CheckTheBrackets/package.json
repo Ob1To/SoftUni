@@ -1,0 +1,10 @@
+{
+  "name": "Task_11_CheckTheBrackets",
+  "version": "0.0.0",
+  "description": "Task-11-CheckTheBrackets",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

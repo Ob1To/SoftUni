@@ -1,0 +1,10 @@
+{
+  "name": "Task_1_CognateWords",
+  "version": "0.0.0",
+  "description": "Task-1-CognateWords",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

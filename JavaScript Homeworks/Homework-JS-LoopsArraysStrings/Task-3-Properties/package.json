@@ -1,0 +1,10 @@
+{
+  "name": "Task_3_Properties",
+  "version": "0.0.0",
+  "description": "Task-3-Properties",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

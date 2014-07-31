@@ -1,0 +1,10 @@
+{
+  "name": "JavaScriptSyntax",
+  "version": "0.0.0",
+  "description": "JavaScriptSyntax",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Task_14_Palindromes",
+  "version": "0.0.0",
+  "description": "Task-14-Palindromes",
+  "main": "app.js",
+  "author": {
+    "name": "Ob1",
+    "email": ""
+  }
+}
