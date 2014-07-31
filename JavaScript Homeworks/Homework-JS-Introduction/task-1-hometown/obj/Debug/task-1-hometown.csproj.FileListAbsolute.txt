@@ -1,6 +1,0 @@
-D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-1-hometown\bin\task-1-hometown.dll.config
-D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-1-hometown\bin\task-1-hometown.dll
-D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-1-hometown\bin\task-1-hometown.pdb
-D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-1-hometown\obj\Debug\task-1-hometown.csprojResolveAssemblyReference.cache
-D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-1-hometown\obj\Debug\task-1-hometown.dll
-D:\SoftUni\JS\Homeworks\Homework-JS-Introduction\task-1-hometown\obj\Debug\task-1-hometown.pdb

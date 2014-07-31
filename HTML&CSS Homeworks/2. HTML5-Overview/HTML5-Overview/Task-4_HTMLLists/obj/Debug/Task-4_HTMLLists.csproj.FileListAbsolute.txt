@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-4_HTMLLists\bin\Task-4_HTMLLists.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-4_HTMLLists\bin\Task-4_HTMLLists.dll
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-4_HTMLLists\bin\Task-4_HTMLLists.pdb
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-4_HTMLLists\obj\Debug\Task-4_HTMLLists.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-4_HTMLLists\obj\Debug\Task-4_HTMLLists.dll
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-4_HTMLLists\obj\Debug\Task-4_HTMLLists.pdb

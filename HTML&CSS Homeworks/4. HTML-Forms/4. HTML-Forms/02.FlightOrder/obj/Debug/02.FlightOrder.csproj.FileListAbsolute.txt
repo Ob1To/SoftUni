@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\02.FlightOrder\bin\02.FlightOrder.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\02.FlightOrder\bin\02.FlightOrder.dll
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\02.FlightOrder\bin\02.FlightOrder.pdb
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\02.FlightOrder\obj\Debug\02.FlightOrder.dll
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\02.FlightOrder\obj\Debug\02.FlightOrder.pdb
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\02.FlightOrder\obj\Debug\02.FlightOrder.csprojResolveAssemblyReference.cache

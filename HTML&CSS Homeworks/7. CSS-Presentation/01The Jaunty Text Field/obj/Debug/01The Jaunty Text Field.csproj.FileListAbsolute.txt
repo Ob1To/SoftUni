@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\01The Jaunty Text Field\bin\01The Jaunty Text Field.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\01The Jaunty Text Field\bin\01The Jaunty Text Field.dll
-D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\01The Jaunty Text Field\bin\01The Jaunty Text Field.pdb
-D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\01The Jaunty Text Field\obj\Debug\01The Jaunty Text Field.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\01The Jaunty Text Field\obj\Debug\01The Jaunty Text Field.dll
-D:\SoftUni\HTML-CSS\Homeworks\7. CSS-Presentation\01The Jaunty Text Field\obj\Debug\01The Jaunty Text Field.pdb

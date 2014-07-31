@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-1_HelloHTML\bin\Task-1_HelloHTML.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-1_HelloHTML\bin\Task-1_HelloHTML.dll
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-1_HelloHTML\bin\Task-1_HelloHTML.pdb
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-1_HelloHTML\obj\Debug\Task-1_HelloHTML.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-1_HelloHTML\obj\Debug\Task-1_HelloHTML.dll
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-1_HelloHTML\obj\Debug\Task-1_HelloHTML.pdb

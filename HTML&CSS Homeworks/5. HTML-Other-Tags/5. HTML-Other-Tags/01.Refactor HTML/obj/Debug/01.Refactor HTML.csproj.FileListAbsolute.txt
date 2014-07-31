@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\01.Refactor HTML\bin\01.Refactor HTML.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\01.Refactor HTML\bin\01.Refactor HTML.dll
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\01.Refactor HTML\bin\01.Refactor HTML.pdb
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\01.Refactor HTML\obj\Debug\01.Refactor HTML.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\01.Refactor HTML\obj\Debug\01.Refactor HTML.dll
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\01.Refactor HTML\obj\Debug\01.Refactor HTML.pdb

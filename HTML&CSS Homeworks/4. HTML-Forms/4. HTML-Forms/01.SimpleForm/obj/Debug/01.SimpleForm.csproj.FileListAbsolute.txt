@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\01.SimpleForm\bin\01.SimpleForm.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\01.SimpleForm\bin\01.SimpleForm.dll
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\01.SimpleForm\bin\01.SimpleForm.pdb
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\01.SimpleForm\obj\Debug\01.SimpleForm.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\01.SimpleForm\obj\Debug\01.SimpleForm.dll
-D:\SoftUni\HTML-CSS\Homeworks\4. HTML-Forms\4. HTML-Forms\01.SimpleForm\obj\Debug\01.SimpleForm.pdb

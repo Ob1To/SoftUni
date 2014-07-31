@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\03.Magic Car Gallery\bin\03.Magic Car Gallery.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\03.Magic Car Gallery\bin\03.Magic Car Gallery.dll
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\03.Magic Car Gallery\bin\03.Magic Car Gallery.pdb
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\03.Magic Car Gallery\obj\Debug\03.Magic Car Gallery.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\03.Magic Car Gallery\obj\Debug\03.Magic Car Gallery.dll
-D:\SoftUni\HTML-CSS\Homeworks\5. HTML-Other-Tags\5. HTML-Other-Tags\03.Magic Car Gallery\obj\Debug\03.Magic Car Gallery.pdb

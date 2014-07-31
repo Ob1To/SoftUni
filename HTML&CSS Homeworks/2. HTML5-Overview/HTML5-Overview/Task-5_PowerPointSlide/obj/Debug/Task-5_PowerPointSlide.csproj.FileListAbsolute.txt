@@ -1,6 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-5_PowerPointSlide\bin\Task-5_PowerPointSlide.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-5_PowerPointSlide\bin\Task-5_PowerPointSlide.dll
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-5_PowerPointSlide\bin\Task-5_PowerPointSlide.pdb
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-5_PowerPointSlide\obj\Debug\Task-5_PowerPointSlide.csprojResolveAssemblyReference.cache
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-5_PowerPointSlide\obj\Debug\Task-5_PowerPointSlide.dll
-D:\SoftUni\HTML-CSS\Homeworks\2. HTML5-Overview\HTML5-Overview\Task-5_PowerPointSlide\obj\Debug\Task-5_PowerPointSlide.pdb

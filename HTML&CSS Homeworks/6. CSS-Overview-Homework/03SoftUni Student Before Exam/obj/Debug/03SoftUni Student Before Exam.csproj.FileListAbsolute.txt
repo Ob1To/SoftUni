@@ -1,5 +1,0 @@
-D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\03SoftUni Student Before Exam\bin\03SoftUni Student Before Exam.dll.config
-D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\03SoftUni Student Before Exam\bin\03SoftUni Student Before Exam.dll
-D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\03SoftUni Student Before Exam\bin\03SoftUni Student Before Exam.pdb
-D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\03SoftUni Student Before Exam\obj\Debug\03SoftUni Student Before Exam.dll
-D:\SoftUni\HTML-CSS\Homeworks\6. CSS-Overview-Homework\03SoftUni Student Before Exam\obj\Debug\03SoftUni Student Before Exam.pdb
